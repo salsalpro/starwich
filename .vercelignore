@@ -1,0 +1,10 @@
+.env*
+!.env.example
+.local-store/
+.private/
+.git/
+.next/
+node_modules/
+tests/
+scripts/
+*.zip

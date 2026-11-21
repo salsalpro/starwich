@@ -1,0 +1,9 @@
+node_modules/
+.next/
+.vercel/
+.env*
+!.env.example
+.private/
+.local-store/
+test-results/
+.vercel

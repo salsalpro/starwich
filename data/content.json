@@ -1,0 +1,1217 @@
+{
+  "categories": [
+    {
+      "id": "appetizer",
+      "name": "پیش‌غذا",
+      "label": "Appetizer",
+      "image": "/photos/appetizer/crispy-caesar.webp"
+    },
+    {
+      "id": "pizza",
+      "name": "پیتزا",
+      "label": "Pizza",
+      "image": "/photos/pizza/pepperoni-pizza.webp"
+    },
+    {
+      "id": "fried",
+      "name": "سوخاری",
+      "label": "Fried Chicken",
+      "image": "/photos/fried/category-cover.webp"
+    },
+    {
+      "id": "sandwich",
+      "name": "ساندویچ",
+      "label": "Sandwich",
+      "image": "/photos/sandwich/krakow-sausage.webp"
+    },
+    {
+      "id": "burger",
+      "name": "برگر",
+      "label": "Burger",
+      "image": "/photos/burger/category-cover.webp"
+    },
+    {
+      "id": "economic",
+      "name": "اقتصادی",
+      "label": "Economy",
+      "image": "/photos/economic/category-cover.webp"
+    }
+  ],
+  "items": [
+    {
+      "id": "classic-fries",
+      "name": "سیب‌زمینی کلاسیک",
+      "description": "سیب‌زمینی سرخ‌شدهٔ خلالی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 280000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/classic-fries.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "special-fries",
+      "name": "سیب‌زمینی ویژه",
+      "description": "سیب‌زمینی سرخ‌شده به سبک ویژهٔ استارویج.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 550000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/special-fries.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "alfredo-fries",
+      "name": "سیب‌زمینی آلفردو",
+      "description": "سیب‌زمینی سرخ‌شده با سس آلفردو.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/alfredo-fries.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "crispy-caesar",
+      "name": "سالاد سزار مرغ سوخاری",
+      "description": "کاهو، گوجه گیلاسی، پنیر پارمسان، سس سزار، فیله مرغ سوخاری و زیتون.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 550000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/crispy-caesar.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "grilled-caesar",
+      "name": "سالاد سزار مرغ گریل",
+      "description": "کاهو، گوجه گیلاسی، پنیر پارمسان، سس سزار و مرغ گریل.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 499000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/grilled-caesar.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "garlic-bread",
+      "name": "نان سیر",
+      "description": "نان تُست‌شده با طعم سیر.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 299000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/garlic-bread.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "season-salad",
+      "name": "سالاد فصل",
+      "description": "سالاد سبزیجات فصل.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 90000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/season-salad.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "coleslaw-large",
+      "name": "سالاد کلم بزرگ",
+      "description": "سالاد کلم در اندازهٔ بزرگ.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 90000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/coleslaw-large.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "coleslaw-small",
+      "name": "سالاد کلم کوچک",
+      "description": "سالاد کلم در اندازهٔ کوچک.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 50000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/coleslaw-small.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "thai-chili-sauce",
+      "name": "سس چیلی تای",
+      "description": "سس چیلی تای در ظرف تک‌نفره.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 20000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/thai-chili-sauce.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "garlic-sauce",
+      "name": "سس سیر",
+      "description": "سس سیر در ظرف تک‌نفره.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 20000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/appetizer/garlic-sauce.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "canned-soda",
+      "name": "نوشابه قوطی",
+      "description": "نوشابه در بسته‌بندی قوطی.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/appetizer/canned-soda.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "lemonade",
+      "name": "لیموناد",
+      "description": "نوشیدنی لیمویی.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/appetizer/lemonade.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "canned-malt",
+      "name": "دلستر قوطی",
+      "description": "نوشیدنی مالت بدون الکل در بسته‌بندی قوطی.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/appetizer/canned-malt.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "doogh",
+      "name": "دوغ لیوانی",
+      "description": "دوغ در بسته‌بندی لیوانی.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/appetizer/doogh.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "water",
+      "name": "آب معدنی",
+      "description": "آب معدنی بطری.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/appetizer/water.webp",
+      "categoryId": "appetizer"
+    },
+    {
+      "id": "starwich-special",
+      "name": "پیتزا ویژه استارویج",
+      "description": "گوشت ریش‌ریش، سینهٔ مرغ، ژامبون گوشت و مرغ، قارچ، زیتون، ذرت، پنیر و سس مخصوص.",
+      "quantity": "۴ نفره",
+      "prices": [
+        {
+          "label": "بزرگ",
+          "amount": 1980000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/starwich-special.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "house-pizza",
+      "name": "پیتزا مخصوص",
+      "description": "ژامبون گوشت و مرغ، پپرونی، پنیر و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 690000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 990000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/house-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "mixed-pizza",
+      "name": "پیتزا مخلوط",
+      "description": "ژامبون گوشت و مرغ، پنیر، زیتون، فلفل دلمه‌ای، ذرت و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 590000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 950000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/mixed-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "roast-beef-pizza",
+      "name": "پیتزا رست بیف",
+      "description": "گوشت ریش‌ریش، پنیر مخصوص، زیتون، قارچ و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 950000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 1200000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/roast-beef-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "beef-mushroom-pizza",
+      "name": "پیتزا گوشت و قارچ",
+      "description": "گوشت چرخ‌کرده، پنیر مخصوص، قارچ، زیتون، فلفل دلمه‌ای و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 650000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 990000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/beef-mushroom-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "pepperoni-pizza",
+      "name": "پیتزا پپرونی",
+      "description": "پپرونی، پنیر مخصوص، زیتون و فلفل دلمه‌ای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 650000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 990000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/pepperoni-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "chicken-pizza",
+      "name": "پیتزا چیکن",
+      "description": "سینهٔ مرغ گریل، پنیر مخصوص، قارچ و زیتون.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 680000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 990000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/chicken-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "garlic-steak-pizza",
+      "name": "پیتزا سیر و استیک",
+      "description": "فیلهٔ ورقه‌شدهٔ گوساله، پنیر مخصوص، سیر، قارچ، فلفل دلمه‌ای و زیتون.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 990000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 1300000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/garlic-steak-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "special-mixed-meat",
+      "name": "پیتزا اسپشیال",
+      "description": "سینهٔ مرغ، رست بیف، گوشت چرخ‌کرده، فلفل دلمه‌ای، گوجه، ذرت و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": null,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 1100000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/special-mixed-meat.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "four-seasons",
+      "name": "پیتزا چهارفصل",
+      "description": "ژامبون مرغ و گوشت، پپرونی، رست بیف، سینهٔ مرغ، زیتون، فلفل دلمه‌ای و ذرت.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 790000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 1150000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/four-seasons.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "vegetable-pizza",
+      "name": "پیتزا سبزیجات",
+      "description": "گوجه، قارچ، هویج، ذرت، فلفل دلمه‌ای و پنیر مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 590000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/vegetable-pizza.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "margherita",
+      "name": "پیتزا مارگاریتا",
+      "description": "گوجه، قارچ، زیتون، پنیر و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "متوسط",
+          "amount": 490000,
+          "currency": "تومان"
+        },
+        {
+          "label": "بزرگ",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/pizza/margherita.webp",
+      "categoryId": "pizza"
+    },
+    {
+      "id": "bone-in-3",
+      "name": "سوخاری ۳ تکه",
+      "description": "سه تکه ران مرغ سوخاری شامل ساق و بالای ران، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/bone-in-3.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "thigh-2",
+      "name": "سوخاری ۲ تکه ران",
+      "description": "دو تکه ران مرغ سوخاری شامل ساق و بالای ران، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 499000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/thigh-2.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "breast-2",
+      "name": "سوخاری ۲ تکه سینه",
+      "description": "دو تکه سینهٔ مرغ سوخاری، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 520000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/breast-2.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "tenders-3",
+      "name": "فیله سوخاری ۳ تکه",
+      "description": "سه تکه فیلهٔ مرغ سوخاری، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/tenders-3.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "tenders-4",
+      "name": "فیله سوخاری ۴ تکه",
+      "description": "چهار تکه فیلهٔ مرغ سوخاری، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/tenders-4.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "wings-6",
+      "name": "بال و کتف سوخاری",
+      "description": "سه تکه بال و سه تکه بازو، همراه سیب‌زمینی یا قارچ، نان و سس چیلی تای.",
+      "quantity": "۶ تکه",
+      "prices": [
+        {
+          "label": "",
+          "amount": 450000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/wings-6.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "fried-mushrooms",
+      "name": "قارچ سوخاری",
+      "description": "قارچ با پوشش ترد سوخاری.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 350000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/fried-mushrooms.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "mixed-half-kilo",
+      "name": "سوخاری میکس",
+      "description": "ترکیبی از سوخاری‌های استارویج در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/mixed-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "mushroom-half-kilo",
+      "name": "قارچ سوخاری",
+      "description": "قارچ سوخاری در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 400000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/mushroom-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "tenders-half-kilo",
+      "name": "فیله سوخاری",
+      "description": "فیلهٔ مرغ سوخاری در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 699000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/tenders-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "wings-half-kilo",
+      "name": "بال و کتف",
+      "description": "بال و کتف مرغ سوخاری در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 480000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/wings-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "falafel-half-kilo",
+      "name": "فلافل",
+      "description": "فلافل در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 380000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/falafel-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "fries-half-kilo",
+      "name": "سیب‌زمینی",
+      "description": "سیب‌زمینی سرخ‌شده در وزن نیم کیلو.",
+      "quantity": "نیم‌کیلو",
+      "prices": [
+        {
+          "label": "",
+          "amount": 380000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/fried/fries-half-kilo.webp",
+      "categoryId": "fried"
+    },
+    {
+      "id": "five-person-platter",
+      "name": "سینی ویژه استارویج",
+      "description": "پیتزا مخصوص، برگر کلاسیک، فیله سوخاری، بال و کتف سوخاری، سیب‌زمینی، هات‌داگ ویژه، کوکتل، گوجه، کاهو، خیارشور و سس‌های ویژه.",
+      "quantity": "۵ نفره",
+      "prices": [],
+      "photo": "/photos/sandwich/five-person-platter.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "signature-sandwich",
+      "name": "ویژه استارویج",
+      "description": "۱۵۰ گرم برگر دست‌ساز، فیلهٔ مرغ گریل، کاهو، گوجه، خیارشور و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/signature-sandwich.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "starwich-deli",
+      "name": "ژامبون تنوری مخصوص استارویج",
+      "description": "ژامبون گوشت و مرغ تنوری، خلال سیب‌زمینی، قارچ، پنیر، کاهو، گوجه، خیارشور، سس مخصوص و نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 550000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/starwich-deli.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "crispy-chicken",
+      "name": "فیله مرغ سوخاری",
+      "description": "۱۵۰ گرم فیلهٔ مرغ سوخاری، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 520000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/crispy-chicken.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "grilled-chicken",
+      "name": "فیله مرغ گریل",
+      "description": "۱۵۰ گرم فیلهٔ مرغ گریل، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/grilled-chicken.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "roasted-beef-deli",
+      "name": "ژامبون گوشت تنوری",
+      "description": "ژامبون گوشت، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 450000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/roasted-beef-deli.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "roasted-chicken-deli",
+      "name": "ژامبون مرغ تنوری",
+      "description": "ژامبون مرغ، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 420000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/roasted-chicken-deli.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "roasted-mixed-deli",
+      "name": "ژامبون گوشت و مرغ تنوری",
+      "description": "ژامبون گوشت و مرغ تنوری، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 430000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/roasted-mixed-deli.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "krakow-sausage",
+      "name": "کراکف ویژه",
+      "description": "سوسیس کراکف، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 350000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/krakow-sausage.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "special-hot-dog",
+      "name": "هات‌داگ مخصوص",
+      "description": "هات‌داگ، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 320000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/special-hot-dog.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "royal-hot-dog",
+      "name": "هات‌داگ رویال",
+      "description": "هات‌داگ سرخ‌شده، ژامبون گوشت و مرغ، قارچ، پنیر، کاهو، گوجه، خیارشور و سس مخصوص.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 420000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/royal-hot-dog.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "roast-beef-roll",
+      "name": "رست بیف",
+      "description": "گوشت ریش‌ریش، کاهو، گوجه، خیارشور، قارچ، پنیر و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/roast-beef-roll.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "chicken-alfredo-pasta",
+      "name": "پاستا چیکن آلفردو",
+      "description": "پاستا، سینهٔ مرغ گریل، پنیر پارمسان، خامه و قارچ.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/chicken-alfredo-pasta.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "tank-sandwich",
+      "name": "تانک ویژه استارویج",
+      "description": "دو عدد برگر، سینهٔ مرغ، ژامبون، قارچ، پنیر، کاهو، گوجه و خیارشور.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/tank-sandwich.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "deli-bomb",
+      "name": "بمب ژامبون",
+      "description": "۵۰۰ گرم ژامبون میکس، قارچ، پنیر، کاهو، گوجه و خیارشور.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 650000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/deli-bomb.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "bandari-sharing",
+      "name": "پرس بندری چهارنفره",
+      "description": "۵۰۰ گرم بندری همراه مخلفات.",
+      "quantity": "۴ نفره",
+      "prices": [
+        {
+          "label": "",
+          "amount": 590000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/sandwich/bandari-sharing.webp",
+      "categoryId": "sandwich"
+    },
+    {
+      "id": "classic-burger",
+      "name": "برگر کلاسیک",
+      "description": "برگر دست‌ساز، کاهو، گوجه و خیارشور در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/classic-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "butter-burger",
+      "name": "برگر ویژه با کره",
+      "description": "برگر دست‌ساز، کرهٔ داغ، قارچ، پنیر، کاهو، خیارشور و گوجه در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 450000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/butter-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "cheeseburger",
+      "name": "چیزبرگر",
+      "description": "برگر گوشت، پنیر، کاهو، گوجه و خیارشور در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/cheeseburger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "mushroom-cheese-burger",
+      "name": "برگر با قارچ و پنیر",
+      "description": "برگر دست‌ساز، قارچ، پنیر، کاهو، خیارشور و گوجه در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 380000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/mushroom-cheese-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "grilled-chicken-burger",
+      "name": "چیکن برگر",
+      "description": "سینهٔ طعم‌دار مرغ گریل، کاهو، گوجه و خیارشور در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 450000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/grilled-chicken-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "chili-burger",
+      "name": "چیلی برگر",
+      "description": "برگر دست‌ساز، کاهو، گوجه، خیارشور و سس مخصوص در نان گرد.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 690000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/chili-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "double-burger",
+      "name": "دوبل برگر",
+      "description": "دو عدد برگر دست‌ساز، کاهو، گوجه و خیارشور در نان.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 520000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/double-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "royal-burger",
+      "name": "رویال برگر",
+      "description": "برگر دست‌ساز، ژامبون گوشت، ژامبون مرغ، قارچ، پنیر، کاهو، گوجه و خیارشور در نان گرد.",
+      "quantity": "",
+      "prices": [],
+      "photo": "/photos/burger/royal-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "zinger-burger",
+      "name": "زینگر برگر",
+      "description": "برگر دست‌ساز، ژامبون گوشت و مرغ، فیلهٔ سوخاری، قارچ، پنیر، کاهو، گوجه و خیارشور.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 490000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/zinger-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "bbq-mushroom-burger",
+      "name": "ماشروم برگر",
+      "description": "برگر دست‌ساز، کاهو، گوجه، خیارشور، قارچ و سس باربیکیو.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 390000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/burger/bbq-mushroom-burger.webp",
+      "categoryId": "burger"
+    },
+    {
+      "id": "personal-pizza",
+      "name": "پیتزا اقتصادی تک‌نفره",
+      "description": "ژامبون گوشت، قارچ، پنیر، سس مخصوص، زیتون، ذرت، فلفل و گوجه.",
+      "quantity": "۱ نفره",
+      "prices": [
+        {
+          "label": "",
+          "amount": 590000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/personal-pizza.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "family-pizza",
+      "name": "پیتزا اقتصادی خانواده",
+      "description": "ژامبون گوشت، قارچ، پنیر، سس مخصوص، زیتون، ذرت، فلفل و گوجه.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 850000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/family-pizza.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "economic-burger",
+      "name": "برگر مخصوص",
+      "description": "گوشت برگر، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 350000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/economic-burger.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "beef-deli",
+      "name": "ژامبون گوشت",
+      "description": "ژامبون گوشت، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 350000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/beef-deli.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "chicken-deli",
+      "name": "ژامبون مرغ",
+      "description": "ژامبون مرغ، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 350000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/chicken-deli.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "hot-dog",
+      "name": "هات‌داگ",
+      "description": "هات‌داگ، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 320000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/hot-dog.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "bandari",
+      "name": "بندری",
+      "description": "بندری، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 250000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/bandari.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "cocktail-sausage",
+      "name": "کوکتل",
+      "description": "کوکتل، کاهو، گوجه، خیارشور و سس مخصوص در نان هات‌داگی.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 280000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/cocktail-sausage.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "falafel-sandwich",
+      "name": "فلافل",
+      "description": "ساندویچ فلافل.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 320000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/falafel-sandwich.webp",
+      "categoryId": "economic"
+    },
+    {
+      "id": "extra-mushroom-cheese",
+      "name": "قارچ و پنیر اضافه",
+      "description": "افزودن قارچ و پنیر به هر ساندویچ.",
+      "quantity": "",
+      "prices": [
+        {
+          "label": "",
+          "amount": 100000,
+          "currency": "تومان"
+        }
+      ],
+      "photo": "/photos/economic/extra-mushroom-cheese.webp",
+      "categoryId": "economic"
+    }
+  ],
+  "settings": {
+    "address": "تهران، شهریار، سعیدآباد، استارویچ",
+    "phone": "02165602000",
+    "aboutTitle": "درباره ما",
+    "aboutBody": "در منوی استارویج از پیش‌غذا و پیتزا تا سوخاری، ساندویچ و برگر را پیدا می‌کنید. بخش اقتصادی هم گزینه‌های تک‌نفره و خانوادگی دارد.",
+    "qrTarget": "/"
+  }
+}
